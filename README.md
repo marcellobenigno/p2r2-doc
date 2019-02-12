@@ -12,15 +12,15 @@ Também permite visualizar, de maneira georreferenciada, as áreas de risco am
 
 ## Índice
 
-1 - [Tela inicial do sistema P2R2][1]
+1 - [Tela Inicial do Sistema P2R2][1]
 
 2 - [O SIG-WEB][2]
 
-3 - [Área de login][3]
+3 - [Área de Login][3]
 
-4 - [Funcionalidades gerais][4]
+4 - [Funcionalidades Gerais][4]
 
-5 - [Atividades comerciais e industriais][5]
+5 - [Atividades Comerciais e Industriais][5]
 
 6 - [Transporte Terrestre de Substâncias Perigosas][6]
 
