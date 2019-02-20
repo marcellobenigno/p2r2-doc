@@ -40,7 +40,7 @@ Também permite visualizar, de maneira georreferenciada, as áreas de risco am
 
 12 - [Cadastro das Tabelas Auxiliares][12]
 
-13 - [Consultas Relatórios Estatísticos][13]
+13 - [Consultas e Relatórios Estatísticos][13]
 
 
 [1]:topicos/1.md
