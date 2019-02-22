@@ -1,6 +1,6 @@
 ![image](img/header.jpg)
 
-# DOCUMENTAÇÃO DO SISTEMA P2R2
+# MANUAL DO USUÁRIO - SISTEMA P2R2
 
 
 ## Apresentação
