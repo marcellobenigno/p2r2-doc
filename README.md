@@ -42,6 +42,8 @@ Também permite visualizar, de maneira georreferenciada, as áreas de risco am
 
 13 - [Consultas e Relatórios Estatísticos][13]
 
+14 - [Modelo Lógico do Banco de Dados][14]
+
 
 [1]:topicos/1.md
 [2]:topicos/2.md
@@ -56,3 +58,4 @@ Também permite visualizar, de maneira georreferenciada, as áreas de risco am
 [11]:topicos/11.md
 [12]:topicos/12.md
 [13]:topicos/13.md
+[14]:topicos/14.md
